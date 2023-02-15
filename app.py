@@ -3,6 +3,7 @@ import joblib
 import os
 import  numpy as np
 import pickle
+import sklearn
 
 app= Flask(__name__)
 
