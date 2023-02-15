@@ -1,5 +1,4 @@
 flask
 joblib
 numpy
-pickle
 streamlit
