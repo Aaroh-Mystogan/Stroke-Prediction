@@ -1,6 +1,5 @@
 flask
 joblib
-os
 numpy
 pickle
 streamlit
